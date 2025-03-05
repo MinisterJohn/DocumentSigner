@@ -78,7 +78,7 @@ The application is designed with extensibility in mind, allowing for potential e
 - **Multi-file Workflows**: Enabling batch processing and document comparison functionalities to improve efficiency in handling multiple documents.
 
 
-##Accessing the document web app. 
+## Accessing the document web app. 
 To access the document signer and annotation tool, it was hosted on netlify and can be accessed via the link below: 
 https://lively-marigold-287e44.netlify.app/
 
